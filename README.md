@@ -22,3 +22,9 @@ https://github.com/304MarketWatch/FantasyStockLeague/tree/master/BackEnd/docs
 Copyright 2018 GitHub, Inc.
 
 Licensed under the [MIT License](https://github.com/304MarketWatch/FantasyStockLeague/blob/master/LICENSE.txt)
+
+##Contributors
+Diego Chui
+Jason Fan
+Rohan Garg
+Barry Le Kim
